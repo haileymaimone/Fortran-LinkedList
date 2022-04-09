@@ -1,4 +1,4 @@
-! CSC-306 - Program 7 - Group 4 - Ricky Peddicord, Hailey Maimone, Anthony Scott, Jonathan Sumaili 
+! CSC-306 - Program 7 - Hailey Maimone
       PROGRAM LINKEDLIST
         TYPE :: NODE
         ! Nodes for names and their counts declared
